@@ -24,4 +24,3 @@ double operator*(Wektor2D v1, Wektor2D v2)
     {
         return v1.getX() * v2.getX() + v1.getY() * v2.getY();
     }
-};
